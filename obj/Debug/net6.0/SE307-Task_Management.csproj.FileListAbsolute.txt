@@ -1,0 +1,15 @@
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\SE307-Task_Management.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\SE307-Task_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\SE307-Task_Management.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\SE307-Task_Management.AssemblyInfo.cs
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\SE307-Task_Management.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\bin\Debug\net6.0\SE307-Task_Management.exe
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\bin\Debug\net6.0\SE307-Task_Management.deps.json
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\bin\Debug\net6.0\SE307-Task_Management.runtimeconfig.json
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\bin\Debug\net6.0\SE307-Task_Management.dll
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\bin\Debug\net6.0\ref\SE307-Task_Management.dll
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\bin\Debug\net6.0\SE307-Task_Management.pdb
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\SE307-Task_Management.dll
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\ref\SE307-Task_Management.dll
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\SE307-Task_Management.pdb
+C:\Users\merve\Desktop\CSharp\SE307-Task_Management\SE307-Task_Management\obj\Debug\net6.0\SE307-Task_Management.genruntimeconfig.cache
